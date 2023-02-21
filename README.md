@@ -33,8 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Habits é um app para ajudar a rastrear habitos.
 
+[Visite o projeto online] (https://github.com/Douglascrc)
 
 ## 🔖 Layout
 
